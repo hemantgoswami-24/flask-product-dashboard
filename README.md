@@ -67,9 +67,6 @@ python app.py
 http://127.0.0.1:5000/
 ```
 ---
-## 📸 Screenshots
-(Add your project screenshots here)
----
 ##  What I Learned
 * Working with APIs and JSON data
 * Integrating Flask with MySQL
@@ -83,8 +80,8 @@ http://127.0.0.1:5000/
 * Deploy on cloud (Render / AWS)
 * Improve UI with React
 ---
-## 👨‍💻 Author
+##  Author
 Hemant Giri
 ---
-## ⭐ Show Your Support
-If you like this project, give it a ⭐ on GitHub!
+##  Show Your Support
+If you like this project, give it a  on GitHub!
